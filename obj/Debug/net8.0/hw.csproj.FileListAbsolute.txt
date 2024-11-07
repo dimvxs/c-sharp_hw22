@@ -1,0 +1,14 @@
+/Users/dima/Desktop/hw/bin/Debug/net8.0/hw
+/Users/dima/Desktop/hw/bin/Debug/net8.0/hw.deps.json
+/Users/dima/Desktop/hw/bin/Debug/net8.0/hw.runtimeconfig.json
+/Users/dima/Desktop/hw/bin/Debug/net8.0/hw.dll
+/Users/dima/Desktop/hw/bin/Debug/net8.0/hw.pdb
+/Users/dima/Desktop/hw/obj/Debug/net8.0/hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/Desktop/hw/obj/Debug/net8.0/hw.AssemblyInfoInputs.cache
+/Users/dima/Desktop/hw/obj/Debug/net8.0/hw.AssemblyInfo.cs
+/Users/dima/Desktop/hw/obj/Debug/net8.0/hw.csproj.CoreCompileInputs.cache
+/Users/dima/Desktop/hw/obj/Debug/net8.0/hw.dll
+/Users/dima/Desktop/hw/obj/Debug/net8.0/refint/hw.dll
+/Users/dima/Desktop/hw/obj/Debug/net8.0/hw.pdb
+/Users/dima/Desktop/hw/obj/Debug/net8.0/hw.genruntimeconfig.cache
+/Users/dima/Desktop/hw/obj/Debug/net8.0/ref/hw.dll
